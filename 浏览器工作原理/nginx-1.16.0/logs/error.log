@@ -1,0 +1,154 @@
+2019/08/13 17:05:36 [error] 18584#13316: *1 "C:\Users\zhumin\Desktop\传智培训\20190807_朱敏\补充\html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/08/13 17:05:36 [error] 18584#13316: *1 CreateFile() "C:\Users\zhumin\Desktop\传智培训\20190807_朱敏\补充\html/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/08/13 17:06:08 [emerg] 14044#19644: invalid number of arguments in "root" directive in C:\applications\nginx-1.16.0/conf/nginx.conf:45
+2019/08/13 17:06:26 [notice] 17028#18384: signal process started
+2019/08/13 17:06:58 [error] 11396#10528: *4 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190807_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost"
+2019/08/13 18:01:23 [notice] 168#10272: signal process started
+2019/08/15 09:46:19 [error] 1276#6572: *1 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190807_朱敏/补充/name" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /name HTTP/1.1", host: "localhost"
+2019/08/15 09:46:19 [error] 1276#6572: *1 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190807_朱敏/补充/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/name"
+2019/08/15 09:46:39 [error] 1276#6572: *1 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190807_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost"
+2019/08/15 09:50:24 [notice] 6132#10768: signal process started
+2019/08/15 10:12:59 [error] 5556#1228: *10 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost"
+2019/08/15 11:19:04 [error] 5556#1228: *23 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/name" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /name HTTP/1.1", host: "localhost"
+2019/08/15 11:32:44 [error] 5556#1228: *34 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost", referrer: "http://localhost/age"
+2019/08/15 11:33:14 [error] 5556#1228: *34 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost"
+2019/08/15 11:33:35 [error] 5556#1228: *34 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost", referrer: "http://localhost/age"
+2019/08/15 11:33:50 [error] 5556#1228: *34 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost", referrer: "http://localhost/age"
+2019/08/15 11:43:48 [error] 5556#1228: *45 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost", referrer: "http://localhost/age"
+2019/08/15 11:51:40 [error] 5556#1228: *53 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost", referrer: "http://localhost/history.html"
+2019/08/15 11:51:44 [error] 5556#1228: *53 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/name" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /name HTTP/1.1", host: "localhost", referrer: "http://localhost/history.html"
+2019/08/15 11:51:56 [error] 5556#1228: *53 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost", referrer: "http://localhost/history.html"
+2019/08/15 14:01:00 [error] 5556#1228: *70 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/age" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /age HTTP/1.1", host: "localhost"
+2019/08/15 14:03:55 [error] 5556#1228: *73 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/name" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /name HTTP/1.1", host: "localhost"
+2019/08/15 17:55:37 [notice] 14500#15352: signal process started
+2019/08/27 11:47:55 [error] 6056#11400: *1 CreateFile() "C:/generaltune/3proxy/doc/html/proxy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /proxy HTTP/1.1", host: "localhost"
+2019/08/27 11:47:55 [error] 6056#11400: *1 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/proxy"
+2019/08/27 11:47:58 [error] 6056#11400: *1 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 11:48:04 [error] 6056#11400: *1 CreateFile() "C:/generaltune/3proxy/doc/html/proxy/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/index.html HTTP/1.1", host: "localhost"
+2019/08/27 11:48:30 [error] 6056#11400: *1 CreateFile() "C:/generaltune/3proxy/doc/html/proxy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /proxy HTTP/1.1", host: "localhost"
+2019/08/27 11:55:01 [notice] 8772#1604: signal process started
+2019/08/27 11:55:07 [error] 6752#7156: *6 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/proxy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /proxy HTTP/1.1", host: "localhost"
+2019/08/27 11:55:11 [error] 6752#7156: *6 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 11:55:20 [notice] 464#5880: signal process started
+2019/08/27 11:55:24 [error] 12336#16868: *9 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 11:57:01 [notice] 13388#18356: signal process started
+2019/08/27 11:57:04 [error] 5748#15160: *12 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 11:57:04 [error] 5748#15160: *12 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 11:57:04 [error] 5748#15160: *12 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 11:57:05 [error] 5748#15160: *12 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 11:57:09 [error] 5748#15160: *12 CreateFile() "C:/generaltune/3proxy/doc/html/proxy/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/index.html HTTP/1.1", host: "localhost"
+2019/08/27 11:59:06 [notice] 15768#15576: signal process started
+2019/08/27 11:59:10 [error] 16120#7344: *15 CreateFile() "C:/generaltune/3proxy/doc/html/proxy/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/index.html HTTP/1.1", host: "localhost"
+2019/08/27 11:59:12 [error] 16120#7344: *15 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/proxy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /proxy HTTP/1.1", host: "localhost"
+2019/08/27 11:59:16 [error] 16120#7344: *15 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 11:59:28 [error] 16120#7344: *15 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:01:23 [notice] 2812#17824: signal process started
+2019/08/27 12:01:27 [error] 12340#14576: *19 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:01:28 [error] 12340#14576: *19 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:01:28 [error] 12340#14576: *19 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:01:29 [error] 12340#14576: *19 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:01:29 [error] 12340#14576: *19 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:01:31 [error] 12340#14576: *19 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:01:38 [notice] 7116#12356: signal process started
+2019/08/27 12:01:51 [error] 13404#13604: *1 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:01:52 [error] 13404#13604: *1 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:01:53 [error] 13404#13604: *1 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:01:53 [error] 13404#13604: *1 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:02:04 [error] 13404#13604: *1 CreateFile() "C:\applications\nginx-1.16.0/html/proxy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /proxy HTTP/1.1", host: "localhost"
+2019/08/27 12:02:11 [notice] 8200#16364: signal process started
+2019/08/27 12:02:17 [notice] 4880#10992: signal process started
+2019/08/27 12:02:17 [error] 4880#10992: CreateFile() "C:\applications\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/08/27 12:02:27 [notice] 3388#16088: signal process started
+2019/08/27 12:02:27 [error] 3388#16088: CreateFile() "C:\applications\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/08/27 12:02:34 [error] 7792#9012: *1 CreateFile() "C:\applications\nginx-1.16.0/html/proxy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /proxy HTTP/1.1", host: "localhost"
+2019/08/27 12:02:37 [error] 7792#9012: *1 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 12:02:43 [error] 7792#9012: *1 CreateFile() "C:/generaltune/3proxy/doc/html/proxy/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/index.html HTTP/1.1", host: "localhost"
+2019/08/27 12:03:28 [notice] 10236#4420: signal process started
+2019/08/27 12:03:29 [notice] 1576#17072: signal process started
+2019/08/27 12:03:31 [notice] 15780#3432: signal process started
+2019/08/27 12:03:32 [notice] 11560#12208: signal process started
+2019/08/27 12:03:33 [notice] 10256#2888: signal process started
+2019/08/27 12:03:33 [error] 10256#2888: CreateFile() "C:\applications\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/08/27 12:03:48 [error] 5880#10000: *1 CreateFile() "C:/Users/zhumin/Desktop/传智培训/20190815_朱敏/补充/proxy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /proxy HTTP/1.1", host: "localhost"
+2019/08/27 12:03:51 [error] 5880#10000: *1 CreateFile() "C:/generaltune/3proxy/doc/html/proxy/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/index.html HTTP/1.1", host: "localhost"
+2019/08/27 12:04:43 [notice] 15488#16868: signal process started
+2019/08/27 12:04:44 [notice] 15608#10128: signal process started
+2019/08/27 12:04:45 [notice] 14720#2452: signal process started
+2019/08/27 12:04:46 [notice] 10164#10892: signal process started
+2019/08/27 12:04:47 [notice] 4272#17368: signal process started
+2019/08/27 12:04:49 [notice] 5400#2856: signal process started
+2019/08/27 12:04:49 [error] 5400#2856: CreateFile() "C:\applications\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2019/08/27 12:05:00 [error] 1848#12092: *1 CreateFile() "C:\applications\nginx-1.16.0/html/proxy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /proxy HTTP/1.1", host: "localhost"
+2019/08/27 12:05:06 [error] 1848#12092: *1 CreateFile() "C:/generaltune/3proxy/doc/html/proxy/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/index.html HTTP/1.1", host: "localhost"
+2019/08/27 12:05:43 [notice] 2912#11916: signal process started
+2019/08/27 12:05:44 [notice] 7696#11860: signal process started
+2019/08/27 12:05:45 [notice] 7920#14736: signal process started
+2019/08/27 12:05:46 [notice] 10832#17448: signal process started
+2019/08/27 12:05:47 [notice] 16716#8852: signal process started
+2019/08/27 12:05:51 [error] 2228#5860: *5 CreateFile() "C:\generaltune\3proxy\doc\html/proxy/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/index.html HTTP/1.1", host: "localhost"
+2019/08/27 12:05:52 [error] 2228#5860: *5 CreateFile() "C:\generaltune\3proxy\doc\html/proxy/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/index.html HTTP/1.1", host: "localhost"
+2019/08/27 12:05:52 [error] 2228#5860: *5 CreateFile() "C:\generaltune\3proxy\doc\html/proxy/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/index.html HTTP/1.1", host: "localhost"
+2019/08/27 13:54:24 [notice] 11492#9984: signal process started
+2019/08/27 13:54:26 [notice] 11116#12156: signal process started
+2019/08/27 13:55:55 [notice] 12076#7472: signal process started
+2019/08/27 13:55:59 [error] 17752#13900: *11 directory index of "C:/Users/zhumin/Desktop/formal/day04/others/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/08/27 13:56:20 [notice] 6968#14196: signal process started
+2019/08/27 13:56:23 [error] 10340#5432: *14 directory index of "C:/Users/zhumin/Desktop/formal/day04/others/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/08/27 13:56:25 [error] 10340#5432: *14 directory index of "C:/Users/zhumin/Desktop/formal/day04/others/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2019/08/27 13:57:00 [error] 10340#5432: *14 CreateFile() "C:/Users/zhumin/Desktop/formal/day04/others/proxy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /proxy HTTP/1.1", host: "localhost"
+2019/08/27 13:57:04 [error] 10340#5432: *14 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 13:57:21 [notice] 18164#4224: signal process started
+2019/08/27 13:57:25 [error] 5900#16716: *20 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 13:57:25 [error] 5900#16716: *20 "C:/generaltune/3proxy/doc/html/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /proxy/ HTTP/1.1", host: "localhost"
+2019/08/27 13:59:21 [emerg] 7272#2968: host not found in "somename:8080" of the "listen" directive in C:\applications\nginx-1.16.0/conf/nginx.conf:87
+2019/08/27 14:00:20 [notice] 8552#17952: signal process started
+2019/08/27 14:00:30 [error] 13820#14364: *23 CreateFile() "C:/generaltune/3proxy/doc/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2019/08/27 14:28:34 [notice] 12460#11612: signal process started
+2019/08/27 15:05:25 [notice] 1944#8460: signal process started
+2019/09/09 11:24:15 [error] 9256#16940: *1 CreateFile() "C:/Users/zhumin/Desktop/tryit/day04/others/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/history.html"
+2019/09/09 11:24:16 [error] 9256#16940: *1 CreateFile() "C:/Users/zhumin/Desktop/tryit/day04/others/index" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost", referrer: "http://localhost/history.html"
+2019/09/09 11:24:21 [error] 9256#16940: *1 CreateFile() "C:/Users/zhumin/Desktop/tryit/day04/others/user" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /user HTTP/1.1", host: "localhost", referrer: "http://localhost/history.html"
+2019/09/09 11:25:48 [error] 9256#16940: *1 CreateFile() "C:/Users/zhumin/Desktop/tryit/day04/others/index" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /index HTTP/1.1", host: "localhost"
+2019/09/09 16:22:47 [notice] 15604#7320: signal process started
+2020/02/21 14:43:16 [error] 16212#2772: *1 "C:/Users/zhumin/Desktop/tryit/day04/others/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/02/21 14:43:16 [error] 16212#2772: *1 CreateFile() "C:/Users/zhumin/Desktop/tryit/day04/others/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/02/21 14:44:17 [notice] 17368#17520: signal process started
+2020/02/21 14:49:19 [notice] 14488#7288: signal process started
+2020/02/21 14:49:37 [error] 6828#14716: *8 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/02/21 14:50:54 [notice] 9104#7804: signal process started
+2020/02/21 16:50:35 [notice] 8368#14716: signal process started
+2020/02/21 16:51:07 [error] 10952#14556: *24 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/02/21 16:59:06 [notice] 8752#13764: signal process started
+2020/02/21 17:04:06 [notice] 13232#7252: signal process started
+2020/02/21 17:04:26 [notice] 14996#12116: signal process started
+2020/02/21 17:07:42 [notice] 1860#1796: signal process started
+2020/02/21 17:08:15 [notice] 1808#15404: signal process started
+2020/02/21 17:09:43 [notice] 15112#16940: signal process started
+2020/02/21 17:10:11 [notice] 17032#12924: signal process started
+2020/02/21 17:10:19 [notice] 6532#2316: signal process started
+2020/02/21 17:13:09 [notice] 17448#7716: signal process started
+2020/02/21 17:13:44 [notice] 5716#16528: signal process started
+2020/02/21 17:19:43 [notice] 14524#7208: signal process started
+2020/02/21 17:30:56 [notice] 16780#12508: signal process started
+2020/02/21 17:31:20 [error] 13684#16840: *23 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/02/21 17:33:54 [notice] 18404#14384: signal process started
+2020/02/21 17:34:05 [error] 15640#11084: *29 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/02/21 17:35:55 [notice] 7640#17788: signal process started
+2020/02/21 17:36:02 [error] 15096#7132: *35 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/02/21 17:38:40 [notice] 14888#9052: signal process started
+2020/02/21 17:38:51 [error] 8748#2532: *44 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2020/02/21 17:44:47 [notice] 10436#5524: signal process started
+2020/02/21 17:46:20 [notice] 14084#8588: signal process started
+2020/02/21 17:46:34 [error] 1184#14076: *56 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.html"
+2020/02/22 09:54:18 [error] 1184#14076: *72 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/02/22 09:54:45 [notice] 12976#15556: signal process started
+2020/02/22 10:27:31 [notice] 3680#8688: signal process started
+2020/02/22 10:27:31 [error] 3680#8688: CreateFile() "C:\applications\nginx-1.16.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/02/22 15:57:28 [error] 13900#7804: *3 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/02/22 16:01:46 [notice] 6388#8916: signal process started
+2020/02/22 16:01:56 [error] 588#220: *9 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/02/22 16:04:43 [notice] 7516#8664: signal process started
+2020/02/22 16:04:46 [error] 5356#10704: *21 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/02/22 16:39:18 [notice] 12924#10924: signal process started
+2020/02/22 16:39:34 [error] 9572#11840: *28 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/02/22 16:40:52 [error] 9572#11840: *35 CreateFile() "C:\applications\nginx-1.16.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
